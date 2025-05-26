@@ -10,3 +10,6 @@ Al acceder a la tarea, se les asignará un ejercicio que deberán resolver sigui
 - 3 La **ejecución del código modificado** (o nueva solución) de acuerdo a lo solicitado en el enunciado.
 
 - 4 La **respuesta de ChatGPT u otra IA**, mostrando cuáles fueron las consultas realizadas (prompts) y las respuestas obtenidas de acuerdo  al enunciado dado.
+
+Estudiante: Ignacio José Lanciotti 
+Legajo: 14436/2
