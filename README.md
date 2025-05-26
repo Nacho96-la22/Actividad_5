@@ -11,5 +11,4 @@ Al acceder a la tarea, se les asignará un ejercicio que deberán resolver sigui
 
 - 4 La **respuesta de ChatGPT u otra IA**, mostrando cuáles fueron las consultas realizadas (prompts) y las respuestas obtenidas de acuerdo  al enunciado dado.
 
-Estudiante: Ignacio José Lanciotti 
-Legajo: 14436/2
+Estudiante: Ignacio José Lanciotti, Legajo: 14436/2
